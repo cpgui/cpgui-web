@@ -1,2 +1,2 @@
 # cpgui-web
-A web module for the cpgui
+A web module for the cpgui.
